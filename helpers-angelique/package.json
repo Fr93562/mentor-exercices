@@ -1,0 +1,23 @@
+{
+  "name": "helpers-angelique",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr93562/helpers-angelique.git"
+  },
+  "author": "Francois Macko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr93562/helpers-angelique/issues"
+  },
+  "homepage": "https://github.com/Fr93562/helpers-angelique#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
